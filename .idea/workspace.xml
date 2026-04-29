@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="adca8076-454b-4e16-9fe0-24d1ffcd862e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ukdw/rplbo/soal_ug_javafx/AppController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ukdw/rplbo/soal_ug_javafx/AppController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;audriskasula&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/UKDW-PrakRPLBO/unguided-9-gn2526-audriskasula.git&quot;,
+    &quot;accountId&quot;: &quot;c4b5b16a-ec35-4767-9f3c-853b5277f783&quot;
+  }
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -45,47 +58,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Application.executor": "Run",
-    "Application.Database_manager.executor": "Run",
-    "Application.HelloApplication.executor": "Run",
-    "Application.Launcher.executor": "Run",
-    "Application.Mahasiswa.executor": "Run",
-    "Application.Mahasiswa_table.executor": "Run",
-    "Application.Matakuliah_table.executor": "Run",
-    "Application.Nilai_table.executor": "Run",
-    "Maven.soal_ug_javafx [clean].executor": "Run",
-    "Maven.soal_ug_javafx [compile].executor": "Run",
-    "Maven.soal_ug_javafx [deploy].executor": "Run",
-    "Maven.soal_ug_javafx [install].executor": "Run",
-    "Maven.soal_ug_javafx [package].executor": "Run",
-    "Maven.soal_ug_javafx [site].executor": "Run",
-    "Maven.soal_ug_javafx [test].executor": "Run",
-    "Maven.soal_ug_javafx [validate].executor": "Run",
-    "Maven.soal_ug_javafx [verify].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/nicsap/RPLBO/soal_ug_javafx",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Application.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Database_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Launcher.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mahasiswa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mahasiswa_table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Matakuliah_table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Nilai_table.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.soal_ug_javafx [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.soal_ug_javafx [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.soal_ug_javafx [deploy].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.soal_ug_javafx [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.soal_ug_javafx [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.soal_ug_javafx [site].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.soal_ug_javafx [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.soal_ug_javafx [validate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.soal_ug_javafx [verify].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/nicsap/RPLBO/soal_ug_javafx&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -122,6 +136,8 @@
       <option name="presentableId" value="Default" />
       <updated>1776996693584</updated>
       <workItem from="1776996768575" duration="4000" />
+      <workItem from="1777445101466" duration="441000" />
+      <workItem from="1777445557344" duration="2823000" />
     </task>
     <servers />
   </component>
